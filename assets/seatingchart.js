@@ -150,6 +150,8 @@ const seatingChart = {
 "Terri Gregory": 19,
 "Mary Ann Manges": 19,
 "Kurt Manges": 19,
+"Victor Dragnev": 2,
+"Larisa Dragnev": 2,
 };
 
 // Helper: get URL query param
