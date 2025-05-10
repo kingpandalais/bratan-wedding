@@ -237,7 +237,6 @@ function showGuestDetails() {
     const guestList = guestsAtTable.map(name => `<li>${name}</li>`).join("");
 
     guestDetailsEl.innerHTML = `
-      ${tableImg}
       <h2 class="h1-other">Guests at Your Table</h2>
       <ul>${guestList}</ul>
     `;
